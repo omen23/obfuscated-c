@@ -1,6 +1,8 @@
 # obfuscated-c
 
-just a test file to let you see what obfuscated code can do ... 
+just a test file to let you see what obfuscated code can do ...
+http://research.microsoft.com/en-us/um/people/tball/papers/XmasGift/
+ 
 actual output:
 
 On the first day of Christmas my true love gave to me
