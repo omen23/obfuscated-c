@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-int x(int t,int _,char *a)
+int x(int t, int _, char *a)
 {
 return!0<t?t<3?x(-79,-13,a+x(-87,1-_,x(-86,0,a+1)+a)):
 1,t<_?x(t+1,_,a):3,x(-94,-27+t,a)&&t==2?_<13?
