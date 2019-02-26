@@ -1,7 +1,7 @@
 # obfuscated-c
 
 just a test file to let you see what obfuscated code can do ...
-http://research.microsoft.com/en-us/um/people/tball/papers/XmasGift/
+(got a little help from MS back at uni)
  
 actual output:
 
